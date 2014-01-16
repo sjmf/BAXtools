@@ -1,0 +1,9 @@
+
+Serial Reader and grapher with IIR filter
+
+Sam Mitchell Finnigan 2013
+
+Depends:
+	pyOpenGL
+	pyserial
+
